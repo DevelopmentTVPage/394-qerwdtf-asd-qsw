@@ -11,6 +11,7 @@ loginId = "1758823"
 subfolder = ""
 firstpartycookies = true
 cookiedomain = "asd.qsw"
+reservedContent = "custom.md"
 
 [menu]
 [[menu.main]]
