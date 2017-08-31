@@ -5,6 +5,7 @@ languageCode = "en-us"
 theme = "tvpage"
 disablePathToLower = "true"
 enableRobotsTXT = true
+galleryChannelIds = "121212,324324,435435"
 
 [params]
 loginId = "1758823"
